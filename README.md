@@ -15,16 +15,13 @@ I hold a Bachelor of Science in Industrial Labor Relations with a minor in Busin
 
 To deepen my expertise and further explore the realm of data science, I enrolled in an intensive Data Science boot camp at Columbia University's Engineering School and advanced mathematics and computer science at the University of Nevada Las Vegas. During the boot camp, I engaged in various research projects, delving deep into data science, with a particular focus on machine learning applications in finance. I worked extensively with algorithms like random forests, support vector machines, neural networks, and logistic regression in Python. 
 
-<img src="https://github.com/justinvalli/justinvalli/assets/124414690/fa1ff692-07c6-4d24-8a94-fb4772d23c3a" width="190" alt="Image Title">
+<img src="https://github.com/justinvalli/justinvalli/assets/124414690/6004eefe-b840-4f2b-8870-3d1b9f7d41b4" width="250" alt="Image Title">
 
-<img src="https://github.com/justinvalli/justinvalli/assets/124414690/6004eefe-b840-4f2b-8870-3d1b9f7d41b4" width="190" alt="Image Title">
+<img src="https://github.com/justinvalli/justinvalli/assets/124414690/d7b582e7-b3b3-4589-8996-6c8f64fbb02e" width="150" alt="Image Title">
 
-<img src="https://github.com/justinvalli/justinvalli/assets/124414690/0243c710-ade4-42d0-b03e-feafab76bba1" width="190" alt="Image Title">
+<img src="https://github.com/justinvalli/justinvalli/assets/124414690/7d40f847-5072-4f59-abd5-d055a3c5cfac" width="150" alt="Image Title">
 
-<img src="https://github.com/justinvalli/justinvalli/assets/124414690/0af3ca35-0c18-42d3-aabf-b0b9fafdb8f3" width="190" alt="Image Title">
-
-<img src="https://github.com/justinvalli/justinvalli/assets/124414690/805279b4-1af6-4ee9-a811-04575cb7af43" width="190" alt="Image Title">
-
+<img src="https://github.com/justinvalli/justinvalli/assets/124414690/805279b4-1af6-4ee9-a811-04575cb7af43" width="150" alt="Image Title">
 
 ------
 ## LinkedIn
