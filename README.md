@@ -2,13 +2,13 @@
 
 On October 8th, 2022, I officially broke two Guinness World Records in the sport of rock climbing. I attributed my success on that day to two key things: my military upbringing and meticulously tracking my training data. I was extremely diligent about tracking data ranging from sleep, heart rate, nutrition metrics, performance statistics, running times, and more. This experience highlighted the value of making data-driven decisions in my life.
 
-<img src="https://github.com/justinvalli/justinvalli/assets/124414690/daf60c06-8fbb-4f16-b19a-c61a3de6591f" width="200" />
+<img src="https://github.com/justinvalli/justinvalli/assets/124414690/daf60c06-8fbb-4f16-b19a-c61a3de6591f" width="190" />
 
-<img src="https://github.com/justinvalli/justinvalli/assets/124414690/5b78486f-e3d3-418c-aedc-4e6b098148a8" width="190" alt="Image Title">
+<img src="https://github.com/justinvalli/justinvalli/assets/124414690/5b78486f-e3d3-418c-aedc-4e6b098148a8" width="180" alt="Image Title">
 
-<img src="https://github.com/justinvalli/justinvalli/assets/124414690/319e50d7-5863-4eb0-bf41-eea12596906a" width="190" alt="Image Title">
+<img src="https://github.com/justinvalli/justinvalli/assets/124414690/319e50d7-5863-4eb0-bf41-eea12596906a" width="180" alt="Image Title">
 
-<img src="https://raw.githubusercontent.com/justinvalli/justinvalli/your_repository_branch/your_image_path.png" width="190" alt="Image Title">
+<img src="https://github.com/justinvalli/justinvalli/assets/124414690/a0d50827-3f04-4ed8-a440-1c5032a686a0" width="405" alt="Image Title">
 
 ------
 # From the trading floor @ Barclays Investment Bank to Data Science
