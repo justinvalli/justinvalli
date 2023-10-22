@@ -8,11 +8,7 @@ On October 8th, 2022, I officially broke two Guinness World Records in the sport
 
 <img src="https://github.com/justinvalli/justinvalli/assets/124414690/319e50d7-5863-4eb0-bf41-eea12596906a" width="190" alt="Image Title">
 
-
-
-
-
-
+<img src="https://raw.githubusercontent.com/justinvalli/justinvalli/your_repository_branch/your_image_path.png" width="190" alt="Image Title">
 
 ------
 # From the trading floor @ Barclays Investment Bank to Data Science
@@ -21,8 +17,7 @@ I hold a Bachelor of Science in Industrial Labor Relations with a minor in Busin
 
 To deepen my expertise and further explore the realm of data science, I enrolled in an intensive Data Science boot camp at Columbia University's Engineering School. During the boot camp, I engaged in various research projects, delving deep into data science, with a particular focus on machine learning applications in finance. I worked extensively with algorithms like random forests, support vector machines, neural networks, and logistic regression in Python. 
 
-<img src="https://github.com/justinvalli/justinvalli/raw/main/assets/124414690/dc1739c3-907e-4dfe-b1fc-93f1e5ce6c0c" width="200" />
-
+<img src="https://github.com/justinvalli/justinvalli/assets/124414690/fa1ff692-07c6-4d24-8a94-fb4772d23c3a" width="190" alt="Image Title">
 
 ------
 # LinkedIn
