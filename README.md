@@ -1,4 +1,4 @@
-# Utilizing data-driven decisions to set two Guinness World Records
+# 🥇 Utilizing data-driven decisions to set two Guinness World Records 🥇
 
 On October 8th, 2022, I officially broke two Guinness World Records in the sport of rock climbing. I attributed my success on that day to two key things: my military upbringing and meticulously tracking my training data. I was extremely diligent about tracking data ranging from sleep, heart rate, nutrition metrics, performance statistics, running times, and more. This experience highlighted the value of making data-driven decisions in my life.
 
