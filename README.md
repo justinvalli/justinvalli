@@ -8,7 +8,7 @@ On October 8th, 2022, I officially broke two Guinness World Records in the sport
 
 <img src="https://github.com/justinvalli/justinvalli/assets/124414690/319e50d7-5863-4eb0-bf41-eea12596906a" width="160" alt="Image Title">
 
-<img src="https://github.com/justinvalli/justinvalli/assets/124414690/a0d50827-3f04-4ed8-a440-1c5032a686a0" width="300" alt="Image Title">
+<img src="https://github.com/justinvalli/justinvalli/assets/124414690/a0d50827-3f04-4ed8-a440-1c5032a686a0" width="350" alt="Image Title">
 
 ------
 ## From the trading floor @ Barclays Investment Bank to Data Science
