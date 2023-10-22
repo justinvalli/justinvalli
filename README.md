@@ -13,7 +13,7 @@ On October 8th, 2022, I officially broke two Guinness World Records in the sport
 
 I hold a Bachelor of Science in Industrial Labor Relations with a minor in Business from Cornell University. My journey into data science began when I started as an Equity Analyst at Barclays Investment Bank back in July of 2020, managing over 350 key institutional relationships for large asset managers like Citadel and Millennium. This role immersed me in the world of financial data, exposing me to the intricacies of high-frequency equity trading and igniting my fascination with data analysis.
 
-To deepen my expertise and further explore the realm of data science, I enrolled in an intensive Data Science boot camp at Columbia University's Engineering School. During the boot camp, I engaged in various research projects, delving deep into data science, with a particular focus on machine learning applications in finance. I worked extensively with algorithms like random forests, support vector machines, neural networks, and logistic regression in Python. 
+To deepen my expertise and further explore the realm of data science, I enrolled in an intensive Data Science boot camp at Columbia University's Engineering School and advanced mathematics and computer science at the University of Nevada Las Vegas. During the boot camp, I engaged in various research projects, delving deep into data science, with a particular focus on machine learning applications in finance. I worked extensively with algorithms like random forests, support vector machines, neural networks, and logistic regression in Python. 
 
 <img src="https://github.com/justinvalli/justinvalli/assets/124414690/fa1ff692-07c6-4d24-8a94-fb4772d23c3a" width="190" alt="Image Title">
 
