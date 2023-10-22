@@ -17,6 +17,15 @@ To deepen my expertise and further explore the realm of data science, I enrolled
 
 <img src="https://github.com/justinvalli/justinvalli/assets/124414690/fa1ff692-07c6-4d24-8a94-fb4772d23c3a" width="190" alt="Image Title">
 
+<img src="https://github.com/justinvalli/justinvalli/assets/124414690/6004eefe-b840-4f2b-8870-3d1b9f7d41b4" width="190" alt="Image Title">
+
+<img src="https://github.com/justinvalli/justinvalli/assets/124414690/0243c710-ade4-42d0-b03e-feafab76bba1" width="190" alt="Image Title">
+
+<img src="https://github.com/justinvalli/justinvalli/assets/124414690/0af3ca35-0c18-42d3-aabf-b0b9fafdb8f3" width="190" alt="Image Title">
+
+<img src="https://github.com/justinvalli/justinvalli/assets/124414690/805279b4-1af6-4ee9-a811-04575cb7af43" width="190" alt="Image Title">
+
+
 ------
 ## LinkedIn
 [Justin's LinkedIn Profile](https://www.linkedin.com/in/justinvalli/)
